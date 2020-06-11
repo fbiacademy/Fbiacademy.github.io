@@ -1,0 +1,198 @@
+html, body {
+	width: 100%;
+	height: 600px;
+}
+
+nav li {
+	display: inline;
+}
+
+li a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	color: #cccccc;
+}
+
+header {
+position: absolute;
+width: 100%;
+height: 46px;
+left: 0px;
+top: 0px;
+background: #060606;
+}
+
+
+#fli {
+position: absolute;
+width: 83px;
+height: 21px;
+left: 16px;
+top: 13px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+}
+
+#sli {
+position: absolute;
+width: 243px;
+height: 21px;
+left: 126px;
+top: 13px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+}
+
+#tli {
+position: absolute;
+width: 182px;
+height: 21px;
+left: 396px;
+top: 13px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+}
+
+.logo {
+position: absolute;
+width: 100%;
+height: 80px;
+left: 0px;
+top: 46px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+position: absolute;
+width: 94%;
+height: 130px;
+text-align: center;
+top: 159px;
+}
+
+.trud {
+position: absolute;
+width: 94%;
+height: 200px;
+text-align: center;
+top: 322px;
+}
+
+.moreinf button {
+position: absolute;
+width: 173px;
+height: 33px;
+left:42.5%;
+top: 471px;
+background: #2C83EF;
+border: 0px solid #2C83EF;
+border-radius: 10px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #E2E2E2;
+}
+
+.moreinf a {
+	text-decoration: none;
+	color: #E2E2E2;
+}
+
+.moreinf a:hover {
+	color: #ffffff;
+}
+
+.moreinf button:hover {
+	background: #2176E0;
+}
+
+footer {
+position: absolute;
+width: 110%;
+height: 56px;
+left: -1px;
+top: 555px;
+background: #060606;
+}
+
+
+#ffli {
+position: absolute;
+width: 83px;
+height: 21px;
+left: 423px;
+top: 17px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #FFFFFF;
+}
+
+
+#ssli {
+position: absolute;
+width: 243px;
+height: 21px;
+left: 533px;
+top: 17px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #FFFFFF;
+}
+
+#ttli {
+position: absolute;
+width: 182px;
+height: 21px;
+left: 803px;
+top: 17px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #FFFFFF;
+}
+
+.nizlogo {
+position: absolute;
+width: 125px;
+height: 21px;
+left: 75%;
+top: 17px;
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #FFFFFF;
+opacity: 0.30;
+}
+
